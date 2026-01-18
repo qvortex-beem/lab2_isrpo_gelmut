@@ -8,5 +8,6 @@ class Program
         string? name = Console.ReadLine();
         System.Console.WriteLine($"HEllo, {name}");
         System.Console.WriteLine("How are you?");
+        System.Console.WriteLine(1 + 1);
     }
 }
